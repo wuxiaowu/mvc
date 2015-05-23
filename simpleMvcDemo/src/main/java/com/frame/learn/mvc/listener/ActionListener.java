@@ -28,7 +28,7 @@ public class ActionListener  implements ServletContextListener{
             e.printStackTrace();
         }
 
-       System.out.println("信息:系统加载完成");
+       System.out.println("信息:系统加载完成!");
 
     }
 
