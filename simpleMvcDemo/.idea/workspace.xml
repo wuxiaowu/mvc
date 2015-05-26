@@ -2,19 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3ddf1ab-f66d-4e1d-bd52-a3a66cfb716b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="DELETED" beforePath="F:\myProjects\git\apacheServerDemo\src\main\webapp\WEB-INF\web.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\myProjects\git\apacheServerDemo\src\main\webapp\index.jsp" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../apacheServerDemo/apacheServerDemo.iml" afterPath="$PROJECT_DIR$/../apacheServerDemo/apacheServerDemo.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../apacheServerDemo/.idea/misc.xml" afterPath="$PROJECT_DIR$/../apacheServerDemo/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simpleMvcDemo.iml" afterPath="$PROJECT_DIR$/simpleMvcDemo.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/simpleMvcDemo_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/simpleMvcDemo_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../apacheServerDemo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../apacheServerDemo/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
-    <list id="3ea48543-3109-4f88-94e0-5cc8712e0544" name="uncommit" comment="uncommit">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-    </list>
+    <list id="3ea48543-3109-4f88-94e0-5cc8712e0544" name="uncommit" comment="uncommit" />
     <ignored path="simpleMvcDemo.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/pom.xml" changelist="b3ddf1ab-f66d-4e1d-bd52-a3a66cfb716b" time="1432218142275" ignored="false" />
+    <file path="/pom.xml" changelist="b3ddf1ab-f66d-4e1d-bd52-a3a66cfb716b" time="1432565351281" ignored="false" />
     <file path="E:/projects/online/pom.xml" changelist="b3ddf1ab-f66d-4e1d-bd52-a3a66cfb716b" time="1431769263102" ignored="false" />
-    <file path="/ActionServlet.java" changelist="b3ddf1ab-f66d-4e1d-bd52-a3a66cfb716b" time="1432277814500" ignored="false" />
+    <file path="/ActionServlet.java" changelist="b3ddf1ab-f66d-4e1d-bd52-a3a66cfb716b" time="1432564989512" ignored="false" />
     <file path="/web.xml" changelist="b3ddf1ab-f66d-4e1d-bd52-a3a66cfb716b" time="1432276536074" ignored="false" />
-    <file path="/index.jsp" changelist="b3ddf1ab-f66d-4e1d-bd52-a3a66cfb716b" time="1432279163272" ignored="false" />
+    <file path="/index.jsp" changelist="b3ddf1ab-f66d-4e1d-bd52-a3a66cfb716b" time="1432565227005" ignored="false" />
     <file path="/LoginForm.java" changelist="b3ddf1ab-f66d-4e1d-bd52-a3a66cfb716b" time="1431774103214" ignored="false" />
     <file path="/FullBean.java" changelist="b3ddf1ab-f66d-4e1d-bd52-a3a66cfb716b" time="1432264191761" ignored="false" />
     <file path="/ZhuceForm.java" changelist="b3ddf1ab-f66d-4e1d-bd52-a3a66cfb716b" time="1431774353189" ignored="false" />
@@ -35,8 +41,10 @@
     <file path="/UserForm.java" changelist="b3ddf1ab-f66d-4e1d-bd52-a3a66cfb716b" time="1432276976589" ignored="false" />
     <file path="/success.jsp" changelist="b3ddf1ab-f66d-4e1d-bd52-a3a66cfb716b" time="1432277461573" ignored="false" />
     <file path="/fail.jsp" changelist="b3ddf1ab-f66d-4e1d-bd52-a3a66cfb716b" time="1432277469034" ignored="false" />
-    <file path="/Dummy.txt" changelist="b3ddf1ab-f66d-4e1d-bd52-a3a66cfb716b" time="1432476327446" ignored="false" />
+    <file path="/Dummy.txt" changelist="b3ddf1ab-f66d-4e1d-bd52-a3a66cfb716b" time="1432644551260" ignored="false" />
     <file path="$PROJECT_DIR$/../apacheServerDemo/pom.xml" changelist="b3ddf1ab-f66d-4e1d-bd52-a3a66cfb716b" time="1432476121138" ignored="false" />
+    <file path="$PROJECT_DIR$/../apacheServerDemo/src/main/java/com/frame/learn/socket/WebServer.java" changelist="b3ddf1ab-f66d-4e1d-bd52-a3a66cfb716b" time="1432644482089" ignored="false" />
+    <file path="$PROJECT_DIR$/../apacheServerDemo/src/main/java/com/frame/learn/socket/Processor.java" changelist="b3ddf1ab-f66d-4e1d-bd52-a3a66cfb716b" time="1432644482089" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +104,17 @@
     <favorites_list name="simpleMvcDemo" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="index.jsp" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="7" selection-start="908" selection-end="908" vertical-scroll-proportion="0.53977275">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -118,18 +136,18 @@
         <option value="$PROJECT_DIR$/src/main/java/com/frame/learn/mvc/utils/XmlBean.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/struts-config.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/frame/learn/mvc/utils/FullBean.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/frame/learn/mvc/form/UserForm.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/view/success.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/view/fail.jsp" />
         <option value="$PROJECT_DIR$/src/main/resources/struts-config.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/frame/learn/mvc/servlet/ActionServlet.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/frame/learn/mvc/action/UserAction.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/frame/learn/mvc/utils/StrutsXml.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/frame/learn/mvc/listener/ActionListener.java" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/frame/learn/mvc/servlet/ActionServlet.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
       </list>
     </option>
   </component>
@@ -193,7 +211,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -252,8 +269,65 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="simpleMvcDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="simpleMvcDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="simpleMvcDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="simpleMvcDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="servlet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -550,7 +624,7 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38593483" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -560,16 +634,16 @@
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2159091" sideWeight="0.5849057" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2159091" sideWeight="0.6140652" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32933104" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5849057" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6140652" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32933104" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32933104" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.41509435" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41337907" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -669,28 +743,18 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/frame/learn/mvc/servlet/ActionServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="59" selection-start="1455" selection-end="1455" vertical-scroll-proportion="0.05775076" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
-        <state />
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="62" selection-start="518" selection-end="518" vertical-scroll-proportion="0.06270627" />
       </provider>
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
         <state />
       </provider>
       <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
         <state />
       </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="62" selection-start="518" selection-end="518" vertical-scroll-proportion="0.06270627" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="14" selection-start="203" selection-end="203" vertical-scroll-proportion="0.05654762" />
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/frame/learn/mvc/form/ActionForm.java">
@@ -708,27 +772,46 @@
         <state line="21" column="0" selection-start="605" selection-end="605" vertical-scroll-proportion="0.35042736" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="44" selection-start="543" selection-end="543" vertical-scroll-proportion="0.57417583">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/simpleMvcDemo.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/struts-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="84" selection-start="259" selection-end="263" vertical-scroll-proportion="0.31318682" />
-      </provider>
       <provider editor-type-id="com.intellij.jsf.yfilesGraph.editor.FacesNavigationFileEditorProvider">
         <state />
       </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="84" selection-start="259" selection-end="263" vertical-scroll-proportion="0.31318682" />
+      </provider>
       <provider editor-type-id="com.intellij.jsf.ui.FacesConfigEditorProvider">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/frame/learn/mvc/servlet/ActionServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="7" selection-start="1856" selection-end="1856" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/maven3/repository/javax/servlet/jsp/jsp-api/2.0/jsp-api-2.0.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="30" selection-start="920" selection-end="920" vertical-scroll-proportion="0.6283988">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="7" selection-start="908" selection-end="908" vertical-scroll-proportion="0.53977275">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
